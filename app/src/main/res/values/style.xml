@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="@android:style/Widget.Material.Button">
+        <item name="android:backgroundTint">
+            @color/blue_light
+        </item>
+        <item name="boxBackgroundColor">
+            @color/blue_light
+        </item>
+    </style>
+</resources>

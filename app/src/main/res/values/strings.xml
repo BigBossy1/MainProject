@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MainProject</string>
+    <string name="registrationText">Нажимая на кнопку, вы соглашаетесь с <a href="#">политикой конфидициальности</a> и обработки персональных данных, а также принимаете <a href="#" text-decoration="none">пользовательское соглашение</a></string>
+</resources>
